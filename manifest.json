@@ -1,0 +1,12 @@
+{
+    "domain": "WOL_for_HA",
+    "name": "WOL_for_HA",
+    "documentation": "https://your_plugin_documentation_url.com",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [],
+    "version": "1.0.0",
+    "config_flow": true,
+    "translations": []
+}
+  

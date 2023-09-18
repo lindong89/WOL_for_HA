@@ -1,0 +1,18 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "Fill in your computer information",
+                "data": {
+                    "ip": "IP address of the computer",
+                    "name": "Name of the computer",
+                    "mac": "MAC address of the computer"
+                }
+            }
+        },
+        "error": {},
+        "abort": {
+            "single_instance_allowed": "Only a single configuration is allowed"
+        }
+    }
+}
